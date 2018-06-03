@@ -1,4 +1,1 @@
-2018/06/03 12:36:47 [emerg] 7546#7546: open() "../../hello-world/conf/nginx.conf" failed (2: No such file or directory)
-2018/06/03 12:56:19 [emerg] 7686#7686: directive "content_by_lua" is not terminated by ";" in /home/miah/openresty-dev/hello-world/./conf/nginx_dev.conf:14
-2018/06/03 12:56:43 [emerg] 7717#7717: directive "content_by_lua" is not terminated by ";" in /home/miah/openresty-dev/hello-world/./conf/nginx_dev.conf:14
 2018/06/03 18:14:44 [notice] 11203#11203: signal process started
